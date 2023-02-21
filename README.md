@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Ashok Ramsankar 👋
 
-I'm a Software Engineer who started learning new skills and is now an API Architect!
+A Senior API/Integration Architect with an aim to deliver solutions for complex technical requirements across diverse business domains
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsankashok&label=Profile%20views&color=0e75b6&style=flat" alt="ramsankashok" /> </p>
 
@@ -24,13 +24,13 @@ I'm a Software Engineer who started learning new skills and is now an API Archit
 
 - 🌱 I’m currently learning **Salesforce, Slack and etc.**
 
-- 👯 I’m looking to collaborate on **MuleSoft Community where people can share the knowledge with each other**
+- 👯 I’m looking to collaborate with **MuleSoft Community where people can share the knowledge to each other**
 
 - 🤝 I’m looking for help with **DataWeave Puzzles and Scripts**
 
 - ⚡ Fun fact **I love to share knowledge with self learning**
 
-## About me
+## 👋 About me
 - API / Integration Architect at [Aspire Systems](https://www.aspiresys.com/)
 - Integration Trailblazer
 - Certified MuleSoft Developer and Architect
