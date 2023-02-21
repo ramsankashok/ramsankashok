@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Ashok Ramsankar 👋
+# Hi there, I'm Ashok Ramsankar !
 
 A Senior API/Integration Architect with an aim to deliver solutions for complex technical requirements across diverse business domains
 
@@ -35,15 +35,22 @@ A Senior API/Integration Architect with an aim to deliver solutions for complex 
 - Integration Trailblazer
 - Certified MuleSoft Developer and Architect
 
-## Connect with me
+## 🤝 Connect with me
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-kumar-ramsankar/)
+[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramsankar.ashok@gmail.com)
 
-<a href="https://linkedin.com/in/ashok-kumar-ramsankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashok-kumar-ramsankar" height="30" width="40" /></a>
+## 🛠 Languages and Tools:
+[![MuleSoft](https://img.shields.io/badge/MuleSoft-044F88?style=for-the-badge&logo=mulesoft&logoColor=white)]()
+[![CloudHub](https://img.shields.io/badge/CloudHub-007ACC?style=for-the-badge&logo=java&logoColor=white)]()
+[![Salesforce](https://img.shields.io/badge/Salesforce-F7DF1E?style=for-the-badge&logo=Salesforce&logoColor=black)]()
+[![Java](https://img.shields.io/badge/Java-FF6C37?style=for-the-badge&logo=java&logoColor=white)]()
+[![J2EE](https://img.shields.io/badge/J2EE-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Docker Container](https://img.shields.io/badge/DockerContainer-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Oracle](https://img.shields.io/badge/Oracle-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Agile](https://img.shields.io/badge/Agile-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
+[![Jenkins](https://img.shields.io/badge/Jenkins-%231572B6?style=for-the-badge&logo=css3&logoColor=black)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+[![Maven](https://img.shields.io/badge/Maven-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
-## Languages and Tools:
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramsankashok&show_icons=true&locale=en&layout=compact" alt="ramsankashok" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsankashok&show_icons=true&locale=en" alt="ramsankashok" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsankashok&" alt="ramsankashok" /></p>
+---
